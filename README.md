@@ -35,7 +35,7 @@ O usuário pode adicionar nomes à lista e, com apenas um clique, sortear um ami
 
 1. **Clone este repositório**
    ```bash
-   git clone https://github.com/Reidner-Verdino/amigo-secreto.git
+   https://github.com/Reidner-Verdino/amigo-secreto
 2. Abra o projeto
 - Entre na pasta do projeto.
 - Abra o arquivo index.html no navegador.
